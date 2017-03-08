@@ -1,0 +1,2 @@
+#include "CommonQuery.h"
+
